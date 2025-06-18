@@ -32,7 +32,7 @@ The system contains the following **relational tables**:
 
 Below is the ERD representation of the Library Management System:
 
-![Library Management ERD](./path-to-your-image.png)
+![Library Management ERD]("C:\Users\kesha\OneDrive\Pictures\Screenshots\Screenshot 2025-06-18 162147.png")
 
 
 ## 🔍 SQL Queries  
